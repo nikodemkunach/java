@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="car.test.CarServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-25T11:25:14" hostname="LAB208W-17" time="1.014">
+  <properties/>
+  <testcase name="shouldRegisterClientWithACar" classname="car.test.CarServiceTest" time="1.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
